@@ -1,0 +1,96 @@
+,curso_academico,codigo_universidad,nombre_universidad,codigo_departamento,nombre_departamento,codigo_municipio,nombre_municipio,codigo_campus,descripcion_campus,codigo_situacion_departamento,descripcion_situacion_departamento,fecha_desde_situacion_departamento
+0,202021,025,Universidad Politécnica de Madrid,xx,COMPOSICIÓN ARQUITECTÓNICA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+1,202021,025,Universidad Politécnica de Madrid,xx,CONSTRUCCIÓN Y TECNOLOGÍA ARQUITECTÓNICAS,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+2,202021,025,Universidad Politécnica de Madrid,xx,ESTRUCTURAS Y FÍSICA DE EDIFICACIÓN,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+3,202021,025,Universidad Politécnica de Madrid,xx,IDEACIÓN GRÁFICA ARQUITECTÓNICA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+4,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+5,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+6,202021,025,Universidad Politécnica de Madrid,xx,PROYECTOS ARQUITECTÓNICOS,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+7,202021,025,Universidad Politécnica de Madrid,xx,URBANÍSTICA Y ORDENACIÓN DEL TERRITORIO,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+8,202021,025,Universidad Politécnica de Madrid,xx,CONSTRUCCIONES ARQUITECTÓNICAS Y SU CONTROL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+9,202021,025,Universidad Politécnica de Madrid,xx,TECNOLOGÍA DE LA EDIFICACIÓN,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+10,202021,025,Universidad Politécnica de Madrid,xx,AERONAVES Y VEHÍCULOS ESPACIALES (DAVE),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+11,202021,025,Universidad Politécnica de Madrid,xx,FÍSICA APLICADA A LAS INGENIERÍAS AERONÁUTICA Y NAVAL (FAIAN),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+12,202021,025,Universidad Politécnica de Madrid,xx,"UNIDAD DOCENTE DE INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA (INGOR)",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+13,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+14,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LA INGENIERÍA AEROESPACIAL (DMAIA),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+15,202021,025,Universidad Politécnica de Madrid,xx,MATERIALES Y PRODUCCIÓN AEROESPACIAL (DMPA),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+16,202021,025,Universidad Politécnica de Madrid,xx,MECÁNICA DE FLUIDOS Y PROPULSIÓN AEROESPACIAL (MFPA),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+17,202021,025,Universidad Politécnica de Madrid,xx,"SISTEMAS AEROESPACIALES, TRANSPORTE AÉREO Y AEROPUERTOS (SATAA)",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+18,202021,025,Universidad Politécnica de Madrid,xx,BIOTECNOLOGÍA - BIOLOGÍA VEGETAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+19,202021,025,Universidad Politécnica de Madrid,xx,"ECONOMÍA AGRARIA, ESTADÍSTICA Y GESTIÓN DE EMPRESAS",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+20,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA AGROFORESTAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+21,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+22,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+23,202021,025,Universidad Politécnica de Madrid,xx,PRODUCCIÓN AGRARIA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+24,202021,025,Universidad Politécnica de Madrid,xx,QUÍMICA Y TECNOLOGÍA DE ALIMENTOS,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+25,202021,025,Universidad Politécnica de Madrid,xx,BIOTECNOLOGÍA - BIOLOGÍA VEGETAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+26,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA Y GESTIÓN FORESTAL Y AMBIENTAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+27,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+28,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+29,202021,025,Universidad Politécnica de Madrid,xx,SISTEMAS Y RECURSOS NATURALES,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+30,202021,025,Universidad Politécnica de Madrid,xx,CIENCIA DE MATERIALES,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+31,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA CIVIL: CONSTRUCCIÓN,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+32,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA CIVIL: HIDRAÚLICA, ENERGÍA Y MEDIO AMBIENTE",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+33,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERIA DEL TRANSPORTE, TERRITORIO Y URBANISMO",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+34,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA Y MORFOLOGÍA DEL TERRENO,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+35,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+36,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA E INFORMÁTICA APLICADAS A LAS INGENIERÍAS CIVIL Y NAVAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+37,202021,025,Universidad Politécnica de Madrid,xx,MECÁNICA DE MEDIOS CONTINUOS Y TEORÍA DE ESTRUCTURAS,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+38,202021,025,Universidad Politécnica de Madrid,xx,"ELECTRÓNICA FÍSICA, INGENIERÍA ELÉCTRICA Y FÍSICA APLICADA",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+39,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+40,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA DE SISTEMAS TELEMÁTICOS,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+41,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA ELECTRÓNICA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+42,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+43,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+44,202021,025,Universidad Politécnica de Madrid,xx,"SEÑALES, SISTEMAS Y RADIOCOMUNICACIONES",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+45,202021,025,Universidad Politécnica de Madrid,xx,TECNOLOGÍA FOTÓNICA Y BIOINGENIERÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+46,202021,025,Universidad Politécnica de Madrid,xx,"ARQUITECTURA, CONSTRUCCIÓN Y SISTEMAS OCEÁNICOS Y NAVALES (DACSON)",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+47,202021,025,Universidad Politécnica de Madrid,xx,CIENCIA DE MATERIALES,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+48,202021,025,Universidad Politécnica de Madrid,xx,FÍSICA APLICADA A LAS INGENIERÍAS AERONÁUTICA Y NAVAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+49,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA ENERGÉTICA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+50,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+51,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA E INFORMÁTICA APLICADAS A LAS INGENIERÍAS CIVIL Y NAVAL,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+52,202021,025,Universidad Politécnica de Madrid,xx,MECÁNICA DE FLUIDOS Y PROPULSIÓN AEROESPACIAL (MFPA),xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+53,202021,025,Universidad Politécnica de Madrid,xx,"CIENCIAS SOCIALES DE LA ACTIVIDAD FÍSICA, DEL DEPORTE Y DEL OCIO",xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+54,202021,025,Universidad Politécnica de Madrid,xx,DEPORTES,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+55,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+56,202021,025,Universidad Politécnica de Madrid,xx,SALUD Y RENDIMIENTO HUMANO,xx,xx,xx,Campus Ciudad Universitaria,xx,xx,xx
+57,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA CIVIL: CONSTRUCCIÓN, INFRAESTRUCTURA Y TRANSPORTE",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+58,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA CIVIL: HIDRÁULICA Y ORDENACIÓN DEL TERRITORIO,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+59,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+60,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+61,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA ELÉCTRICA, ELECTRÓNICA AUTOMÁTICA Y FÍSICA APLICADA",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+62,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA MECÁNICA, QUÍMICA Y DISEÑO INDUSTRIAL",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+63,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+64,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LA INGENIERÍA INDUSTRIAL,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+65,202021,025,Universidad Politécnica de Madrid,xx,ENERGÍA Y COMBUSTIBLES,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+66,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA GEOLÓGICA Y MINERA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+67,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+68,202021,025,Universidad Politécnica de Madrid,xx,"AUTOMÁTICA, INGENIERÍA ELÉCTRICA Y ELECTRÓNICA E INFORMÁTICA INDUSTRIAL",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+69,202021,025,Universidad Politécnica de Madrid,xx,FÍSICA APLICADA E INGENIERÍA DE MATERIALES,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+70,202021,025,Universidad Politécnica de Madrid,xx,"UNIDAD DOCENTE DE INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA (INGOR)",xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+71,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA ENERGÉTICA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+72,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA MECÁNICA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+73,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA QUÍMICA INDUSTRIAL Y DEL MEDIO AMBIENTE,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+74,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+75,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LA INGENIERÍA INDUSTRIAL,xx,xx,xx,Campus Madrid Ciudad,xx,xx,xx
+76,202021,025,Universidad Politécnica de Madrid,xx,ARQUITECTURA Y TECNOLOGÍA DE SISTEMAS INFORMÁTICOS,xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+77,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA",xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+78,202021,025,Universidad Politécnica de Madrid,xx,INTELIGENCIA ARTIFICIAL,xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+79,202021,025,Universidad Politécnica de Madrid,xx,LENGUAJES Y SISTEMAS INFORMÁTICOS E INGENIERÍA DE SOFTWARE,xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+80,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+81,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,xx,xx,xx,Campus de Montegancedo,xx,xx,xx
+82,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA",xx,xx,xx,Campus Sur,xx,xx,xx
+83,202021,025,Universidad Politécnica de Madrid,xx,INTELIGENCIA ARTIFICIAL,xx,xx,xx,Campus Sur,xx,xx,xx
+84,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Sur,xx,xx,xx
+85,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,xx,xx,xx,Campus Sur,xx,xx,xx
+86,202021,025,Universidad Politécnica de Madrid,xx,SISTEMAS INFORMÁTICOS,xx,xx,xx,Campus Sur,xx,xx,xx
+87,202021,025,Universidad Politécnica de Madrid,xx,"ELECTRÓNICA FÍSICA, INGENIERÍA ELÉCTRICA Y FÍSICA APLICADA",xx,xx,xx,Campus Sur,xx,xx,xx
+88,202021,025,Universidad Politécnica de Madrid,xx,"INGENIERÍA DE ORGANIZACIÓN, ADMINISTRACIÓN DE EMPRESAS Y ESTADÍSTICA",xx,xx,xx,Campus Sur,xx,xx,xx
+89,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA TELEMÁTICA Y ELECTRÓNICA,xx,xx,xx,Campus Sur,xx,xx,xx
+90,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Sur,xx,xx,xx
+91,202021,025,Universidad Politécnica de Madrid,xx,MATEMÁTICA APLICADA A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,xx,xx,xx,Campus Sur,xx,xx,xx
+92,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA AUDIOVISUAL Y COMUNICACIONES,xx,xx,xx,Campus Sur,xx,xx,xx
+93,202021,025,Universidad Politécnica de Madrid,xx,INGENIERÍA TOPOGRÁFICA Y CARTOGRAFÍA,xx,xx,xx,Campus Sur,xx,xx,xx
+94,202021,025,Universidad Politécnica de Madrid,xx,SECCIÓN DEPARTAMENTAL DE LINGÜÍSTICA APLICADA A LA CIENCIA Y A LA TECNOLOGÍA,xx,xx,xx,Campus Sur,xx,xx,xx
